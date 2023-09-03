@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A platform that facilitates the booking of corporate passes for internal Singapore Sports School Staff.
+A pass management web application system that facilitates the booking of corporate passes for internal Singapore Sports School Staff.
 
 ## Requirements
 
