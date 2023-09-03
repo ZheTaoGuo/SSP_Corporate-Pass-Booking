@@ -1,12 +1,8 @@
 # PassAway
 
-_logo here_
-
-_video demo here_
-
 ## Introduction
 
-_Intro to be written here_
+A platform that facilitates the booking of corporate passes for internal Singapore Sports School Staff.
 
 ## Requirements
 
@@ -43,11 +39,8 @@ The application can also be started without a Docker context by starting each pa
 
 ## Results
 
-The app should be accessible at [http://localhost/](http://localhost/) with the back-end itself accessible at [http://localhost:8000/](http://localhost:8000/). 
+The app should be accessible at [http://localhost:8000/](http://localhost:8000/). 
 
-## Tested by
-
-_Release testers listed here_
 
 ## Project Structure
 
@@ -90,6 +83,3 @@ This file helps run the different services in their respective Docker containers
 ### `/shutdown.bat`/`/shutdown.sh`
 This file helps shutdown and remove any containers and images produced by setting up and running this whole application.  
 
-## Attributions
-
-_Attributions of copyrights here_
